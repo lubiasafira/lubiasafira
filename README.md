@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# Olá, meu chamo Bianca Farias 👋
+## Bem-vindo(a) ao meu perfil no github
 <!--
 **lubiasafira/lubiasafira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 Estou aprendendo sobre desenvolvimento web front-end e back-end
