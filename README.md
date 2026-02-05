@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 Estou aprendendo sobre desenvolvimento web front-end e back-end
+- Aprendendo sobre IA 🤖
